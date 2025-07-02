@@ -10,6 +10,14 @@
 
     <title>Sr. Kimono</title>
   </head>
+  <style>
+    .holder {   
+      width:auto;
+      max-height: 30%; 
+      align-items: center;
+   }
+
+  </style>
   <body>
     <header>  
     <nav class="container navbar navbar-expand-lg navbar-light">
